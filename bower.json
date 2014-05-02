@@ -1,0 +1,20 @@
+{
+  "name": "domgl",
+  "main": "index.js",
+  "version": "0.0.1",
+  "authors": [
+    "admin@domgl.com"
+  ],
+  "description": "domgl",
+  "keywords": [
+    "domgl"
+  ],
+  "license": "GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
